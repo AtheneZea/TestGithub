@@ -9,5 +9,8 @@ package testgithub;
  * @author Kozak-J-9cb5
  */
 public class NewMain {
-    
+      public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("Nazdárek");
+    }
 }
